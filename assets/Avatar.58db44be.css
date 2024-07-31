@@ -1,0 +1,24 @@
+span[data-v-a429b24b] {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  width: 30px;
+  background-color: var(--Color-primary-black-3);
+  font-family: "Dogica";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  color: var(--Color-primary-white);
+  border-radius: 50%;
+  text-transform: uppercase;
+  letter-spacing: -4px;
+}
+span.big[data-v-a429b24b] {
+  width: 94px;
+  height: 94px;
+  background-color: var(--Color-primary-persian-blue);
+  font-size: 52px;
+}
