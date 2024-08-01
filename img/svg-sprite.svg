@@ -227,20 +227,20 @@
     <symbol id="ship" viewBox="70 0 500 480">
         <defs>
             <linearGradient id="thorch-gradient">
-              <stop offset="0%" stop-color="#23ccf6" />
-              <stop offset="100%" stop-color="#32f794" />
+              <stop stop-color="#23ccf6" />
+              <stop stop-color="#32f794" />
             </linearGradient>
-          </defs>
+        </defs>
         <g transform="matrix(1.1 0 0 1.1 321.94 242.61)"  >
             <g>
                 <g transform="matrix(-8.38 -2.09 -2.09 8.38 117.41 0.09)"  >
                     <path
-                        style="fill: url(#thorch-gradient) #fff;"
+                        style="fill: url(#thorch-gradient) #23ccf6;"
                         transform=" translate(-18.34, -21.08)" d="M 0 42.1505376 L 29.3660229 29.7578443 L 20.0759286 20.3135121 L 0 42.1505376 Z M 10.7858343 10.8822386 L 20.0759286 20.3135121 L 36.6709677 -3.63797881e-12 L 10.7858343 10.8822386 Z" stroke-linecap="round" />
                 </g>
                 <g transform="matrix(8.39 -2.03 2.03 8.39 -118.34 -0.84)"  >
                     <path
-                        style="fill: url(#thorch-gradient) #fff;"
+                        style="fill: url(#thorch-gradient) #23ccf6;"
                         transform=" translate(-18.34, -21.08)" d="M 0 42.1505376 L 29.3660229 29.7578443 L 20.0759286 20.3135121 L 0 42.1505376 Z M 10.7858343 10.8822386 L 20.0759286 20.3135121 L 36.6709677 -3.63797881e-12 L 10.7858343 10.8822386 Z" stroke-linecap="round" />
                 </g>
             </g>
